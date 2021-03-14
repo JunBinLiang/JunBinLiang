@@ -2,18 +2,17 @@
  
 
 
-<img align="right" alt="" width="600px" src="./4.gif" />
+<img align="left" alt="" width="600px" src="./4.gif" /> 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunBinLiang&layout=compact&theme=nord)
 
 
-
  <a href="https://leetcode.com/66brother/">
-  <img src="./leetcode.jpg" width="400"/>
+  <img src="./leetcode.jpg" width="450"/>
 </a> 
 
  <a href="https://binarysearch.com/@/66brother">
-  <img src="./binarysearch.jpg" width="400"/>
+  <img src="./binarysearch.jpg" width="450"/>
 </a>
 
  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino.gif?raw=true" />
