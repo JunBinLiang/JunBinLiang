@@ -1,9 +1,19 @@
-## Hi, I'm 66brother! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+# Hi, I'm 66brother!<a href="https://www.linkedin.com/in/junbin-liang-482556176/"> <img alt="JunBin's LinkedIN" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" /> </a> 
+ 
 
-<a href="https://www.linkedin.com/in/junbin-liang-482556176/">
-  <img alt="liulan's LinkedIN" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" />
+
+<img align="left" alt="" width="600px" src="./4.gif" /> 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunBinLiang&layout=compact&theme=nord)
+
+
+ <a href="https://leetcode.com/66brother/">
+  <img src="./leetcode.jpg" width="450"/>
+</a> 
+
+ <a href="https://binarysearch.com/@/66brother">
+  <img src="./binarysearch.jpg" width="450"/>
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunBinLiang&layout=compact)](https://github.com/liulanz/github-readme-stats)
+ <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino.gif?raw=true" />
 
-[![liulan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunBinLiang&theme=buefy&line_height=17)](https://github.com/liulanz/github-readme-stats)
