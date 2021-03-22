@@ -1,19 +1,11 @@
 # Hi, I'm 66brother!<a href="https://www.linkedin.com/in/junbin-liang-482556176/"> <img alt="JunBin's LinkedIN" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" /> </a> 
- 
-
 
 <img align="left" alt="" width="600px" src="./4.gif" /> 
+<img align="right" src="https://github.com/SP-XD/SP-XD/blob/main/images/dino.gif?raw=true" height="100px" />
+ 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunBinLiang&layout=compact&theme=nord)
+[![trophy](https://github-profile-trophy.vercel.app/?username=JunBinLiang&title=Commit,Followers)](https://github.com/JunBinLiang/github-profile-trophy)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunBinLiang&layout=compact)
 
- <a href="https://leetcode.com/66brother/">
-  <img src="./leetcode.jpg" width="450"/>
-</a> 
-
- <a href="https://binarysearch.com/@/66brother">
-  <img src="./binarysearch.jpg" width="450"/>
-</a>
-
- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino.gif?raw=true" />
 
