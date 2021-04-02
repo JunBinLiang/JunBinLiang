@@ -1,11 +1,37 @@
 
+# Hi, I'm [66brother :smirk:](https://www.linkedin.com/in/junbin-liang-482556176/)! <img align="right" alt="" width="450px" src="./4.gif" /> 
+
+
+```java
+         ▄              ▄    
+        ▌▒█           ▄▀▒▌   
+        ▌▒▒█        ▄▀▒▒▒▐   
+       ▐▄█▒▒▀▀▀▀▄▄▄▀▒▒▒▒▒▐   
+     ▄▄▀▒▒▒▒▒▒▒▒▒▒▒█▒▒▄█▒▐   
+   ▄▀▒▒▒░░░▒▒▒░░░▒▒▒▀██▀▒▌   
+  ▐▒▒▒▄▄▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▀▄▒▌  
+  ▌░░▌█▀▒▒▒▒▒▄▀█▄▒▒▒▒▒▒▒█▒▐  
+ ▐░░░▒▒▒▒▒▒▒▒▌██▀▒▒░░░▒▒▒▀▄▌ 
+ ▌░▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░▒▒▒▒▌ 
+▌▒▒▒▄██▄▒▒▒▒▒▒▒▒░░░░░░░░▒▒▒▐ 
+▐▒▒▐▄█▄█▌▒▒▒▒▒▒▒▒▒▒░▒░▒░▒▒▒▒▌
+▐▒▒▐▀▐▀▒▒▒▒▒▒▒▒▒▒▒▒▒░▒░▒░▒▒▐ 
+ ▌▒▒▀▄▄▄▄▄▄▒▒▒▒▒▒▒▒░▒░▒░▒▒▒▌ 
+ ▐▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░▒░▒▒▄▒▒▐  
+  ▀▄▒▒▒▒▒▒▒▒▒▒▒▒▒░▒░▒▄▒▒▒▒▌  
+    ▀▄▒▒▒▒▒▒▒▒▒▒▄▄▄▀▒▒▒▒▄▀   
+      ▀▄▄▄▄▄▄▀▀▀▒▒▒▒▒▄▄▀     
+         ▀▀▀▀▀▀▀▀▀▀▀▀        
+```
+
+=======
+
 
 # Hi, I'm 66brother!<a href="https://www.linkedin.com/in/junbin-liang-482556176/"> <img alt="JunBin's LinkedIN" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" /> </a> 
 
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=JunBinLiang&title=Commit,Followers)
-<img align="left" alt="" width="800px" src="./4.gif" /> 
+
 
 
 
