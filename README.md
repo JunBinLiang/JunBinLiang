@@ -1,4 +1,4 @@
-# Hi, I'm [66brother](https://www.linkedin.com/in/junbin-liang-482556176/)! <img align="right" alt="" width="500px" src="./4.gif" /> 
+# Hi, I'm [66brother](https://www.linkedin.com/in/junbin-liang-482556176/)! <img align="right" alt="" width="400px" src="./4.gif" /> 
 
 ```java
          ▄              ▄    
