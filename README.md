@@ -1,16 +1,4 @@
-# Hi, I'm [66brother](https://www.linkedin.com/in/junbin-liang-482556176/)! <img align="right" alt="" width="300px" src="./4.gif" /> 
-
-```ascii
-       ▄      ▄    
-      ▐▒▀▄▄▄▄▀▒▌   
-    ▄▀▒▒▒▒▒▒▒▒▓▀▄  
-  ▄▀░█░░░░█░░▒▒▒▐  
-  ▌░░░░░░░░░░░▒▒▐  
- ▐▒░██▒▒░░░░░░░▒▐  
- ▐▒░▓▓▒▒▒░░░░░░▄▀  
-  ▀▄░▀▀▀▀░░░░▄▀    
-    ▀▀▄▄▄▄▄▀▀       
-```
+# Hi, I'm [66brother](https://www.linkedin.com/in/junbin-liang-482556176/)! <img align="right" alt="" width="500px" src="./4.gif" /> 
 
 ```java
          ▄              ▄    
