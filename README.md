@@ -1,10 +1,40 @@
-# Hi, I'm 66brother!<a href="https://www.linkedin.com/in/junbin-liang-482556176/"> <img alt="JunBin's LinkedIN" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" /> </a> 
+# Hi, I'm [66brother](https://www.linkedin.com/in/junbin-liang-482556176/)! <img align="right" alt="" width="300px" src="./4.gif" /> 
 
-###  <img src="./LeetCode_logo.png" width = "60px"> Leetcode 	:star2: Biweekly 48 Contest :trophy: TOP 25 (23th) GLOBALLY
-<img src="./leetcode23th.jpg">
+```ascii
+       ▄      ▄    
+      ▐▒▀▄▄▄▄▀▒▌   
+    ▄▀▒▒▒▒▒▒▒▒▓▀▄  
+  ▄▀░█░░░░█░░▒▒▒▐  
+  ▌░░░░░░░░░░░▒▒▐  
+ ▐▒░██▒▒░░░░░░░▒▐  
+ ▐▒░▓▓▒▒▒░░░░░░▄▀  
+  ▀▄░▀▀▀▀░░░░▄▀    
+    ▀▀▄▄▄▄▄▀▀       
+```
 
-![trophy](https://github-profile-trophy.vercel.app/?username=JunBinLiang&title=Commit,Followers)
-<img align="left" alt="" width="800px" src="./4.gif" /> 
+```java
+         ▄              ▄    
+        ▌▒█           ▄▀▒▌   
+        ▌▒▒█        ▄▀▒▒▒▐   
+       ▐▄█▒▒▀▀▀▀▄▄▄▀▒▒▒▒▒▐   
+     ▄▄▀▒▒▒▒▒▒▒▒▒▒▒█▒▒▄█▒▐   
+   ▄▀▒▒▒░░░▒▒▒░░░▒▒▒▀██▀▒▌   
+  ▐▒▒▒▄▄▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▀▄▒▌  
+  ▌░░▌█▀▒▒▒▒▒▄▀█▄▒▒▒▒▒▒▒█▒▐  
+ ▐░░░▒▒▒▒▒▒▒▒▌██▀▒▒░░░▒▒▒▀▄▌ 
+ ▌░▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░▒▒▒▒▌ 
+▌▒▒▒▄██▄▒▒▒▒▒▒▒▒░░░░░░░░▒▒▒▐ 
+▐▒▒▐▄█▄█▌▒▒▒▒▒▒▒▒▒▒░▒░▒░▒▒▒▒▌
+▐▒▒▐▀▐▀▒▒▒▒▒▒▒▒▒▒▒▒▒░▒░▒░▒▒▐ 
+ ▌▒▒▀▄▄▄▄▄▄▒▒▒▒▒▒▒▒░▒░▒░▒▒▒▌ 
+ ▐▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░▒░▒▒▄▒▒▐  
+  ▀▄▒▒▒▒▒▒▒▒▒▒▒▒▒░▒░▒▄▒▒▒▒▌  
+    ▀▄▒▒▒▒▒▒▒▒▒▒▄▄▄▀▒▒▒▒▄▀   
+      ▀▄▄▄▄▄▄▀▀▀▒▒▒▒▒▄▄▀     
+         ▀▀▀▀▀▀▀▀▀▀▀▀        
+```
+
+
 
 
 
