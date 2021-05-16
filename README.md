@@ -3,7 +3,8 @@
 
 
 
-# Hi, I'm [66brother :smirk:](https://www.linkedin.com/in/junbin-liang-482556176/)! <img align="right" alt="" width="450px" src="https://user-images.githubusercontent.com/37808313/118411249-93a3ca80-b661-11eb-92ab-07c6c41b3c59.gif" /> 
+# Hi, I'm [66brother :smirk:](https://www.linkedin.com/in/junbin-liang-482556176/)! <br/>
+<img alt="" width="450px" src="https://user-images.githubusercontent.com/37808313/118411249-93a3ca80-b661-11eb-92ab-07c6c41b3c59.gif" /> 
 
 
 
