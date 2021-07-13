@@ -12,7 +12,8 @@
 
 
 
-<img width="400px" src="1495a86b51ac564e624ffd5e5ac9f32.png" /> 
+<img alt="left" width="400px" src="1495a86b51ac564e624ffd5e5ac9f32.png" /> 
+<img alt="right" width="400px" src="1495a86b51ac564e624ffd5e5ac9f32.png" /> 
 
 
 
